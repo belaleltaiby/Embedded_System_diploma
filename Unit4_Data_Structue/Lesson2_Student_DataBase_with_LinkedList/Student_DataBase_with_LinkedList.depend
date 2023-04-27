@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682572647 source:h:\embeded for me\socket_programming\student_database_with_linkedlist\main.c
+	"stdio.h"
+	"stdlib.h"
+	"stddef.h"
+
